@@ -1,0 +1,34 @@
+{
+    "carrosEstacionados": [
+        {
+            "id": 1,
+            "placa": "ABC-1234",
+            "cor": "Prata",
+            "marca": "Fiat",
+            "modelo": "Bravo",
+            "dataHoraEntrada": "22/09/2020 23:18:00",
+            "dataHoraSaida": "",
+            "status": "true"
+        },
+        {
+            "id": 1,
+            "placa": "BAC-2143",
+            "cor": "Preto",
+            "marca": "Chrysler",
+            "modelo": "300C",
+            "dataHoraEntrada": "22/09/2020 23:18:00",
+            "dataHoraSaida": "",
+            "status": "true"
+        },
+        {
+            "id": 3,
+            "placa": "CBA-4321",
+            "cor": "Prata",
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "dataHoraEntrada": "22/09/2020 23:18:00",
+            "dataHoraSaida": "",
+            "status": "true"
+        }
+    ]
+}
